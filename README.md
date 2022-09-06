@@ -10,6 +10,7 @@
 
 ##T-test
 
-![image](https://user-images.githubusercontent.com/101226991/188554097-44440492-13cd-4d6e-89d2-e47c540ec33b.png)
+![image](https://user-images.githubusercontent.com/101226991/188554636-08a2f43e-3296-4015-bba1-67488da9ea42.png)
+
 
 Ran into some issues getting my images to display and had to pull them from screenshots in R studio
